@@ -7,3 +7,6 @@ public class LoginDTO
     public string Senha { get; set; } = default!;
 
 }
+
+
+
